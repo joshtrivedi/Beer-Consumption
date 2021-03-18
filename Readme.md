@@ -9,3 +9,5 @@ Steps followed
 6. Importing sklearn
 7. Fitting the model and calculating prediction
 8. Plotting the regression graph 
+## Using KNN
+## Using Logistic Regression
